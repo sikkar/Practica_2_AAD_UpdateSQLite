@@ -22,7 +22,7 @@
         </activity>
         <activity
             android:name="com.izv.angel.updatesqlite.Secundaria"
-            android:label="@string/title_activity_secundaria" >
+            android:label="@string/partido" >
         </activity>
         <activity
             android:name="com.izv.angel.updatesqlite.AgregarPartido"

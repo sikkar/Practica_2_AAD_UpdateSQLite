@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">UpdateSQLite</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="partido">Partidos</string>
     <string name="aniadir_jugador">Añadir Jugador</string>
     <string name="title_activity_agregar">Agregar</string>
     <string name="action_settings">Settings</string>
